@@ -1,2 +1,2 @@
-# Developer
-Hareram Wadekar
+# Spotify clone
+-hareram wadekar
