@@ -43,7 +43,7 @@ spotify-clone/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/hareramwadekar/spotify-clone.git
+git clone https://github.com/hareram16/spotify-clone.git
 
 # 2. Open the project
 cd spotify-clone
