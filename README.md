@@ -4,15 +4,6 @@ This is a **fully responsive front-end clone of Spotify**, built using pure **HT
 
 ---
 
-## 🖼️ Project Preview
-
-| Desktop View | Mobile View |
-|--------------|-------------|
-| ![desktop](https://via.placeholder.com/400x200) | ![mobile](https://via.placeholder.com/200x400) |
-
-*(Add actual screenshots once available)*
-
----
 
 ## 🌟 Features
 
